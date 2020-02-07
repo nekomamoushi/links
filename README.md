@@ -23,6 +23,10 @@ This is a collection of links that are helpful
 
 - [Console Log Like A Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
 
+## Network
+
+- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+
 ## Python
 
 - [Slots](https://www.christianbarra.com/posts/let-me-introduce-slots/)
