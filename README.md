@@ -14,6 +14,11 @@ This is a collection of links that are helpful
 ## Git
 
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+- [5 tips for Arduino](https://www.megunolink.com/articles/5-tips-for-arduino-programs/)
+
+## Hardware
+
+- [Intro To Soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
 
 ## HTML
 
