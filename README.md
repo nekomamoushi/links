@@ -31,3 +31,11 @@ This is a collection of links that are helpful
 
 - [Slots](https://www.christianbarra.com/posts/let-me-introduce-slots/)
 - [Good Logging Practice](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
+
+## StackOverflow
+
+- [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
+- [Behavior Subject VS Observable](https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable)
+- [Gulp Error](https://stackoverflow.com/questions/36897877/gulp-error-the-following-tasks-did-not-complete-did-you-forget-to-signal-async)
+- [Difference between localstorage, sessionstorage and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
+- [Async Trio Wat to solve hettingers example](https://stackoverflow.com/questions/49758189/async-trio-way-to-solve-hettingers-example)
