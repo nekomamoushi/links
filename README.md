@@ -22,3 +22,4 @@ This is a collection of links that are helpful
 ## Python
 
 - [Slots](https://www.christianbarra.com/posts/let-me-introduce-slots/)
+- [Good Logging Practice](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
