@@ -11,6 +11,10 @@ This is a collection of links that are helpful
 - [My Favorite CSS Hack](https://dev.to/gajus/my-favorite-css-hack-32g3)
 - [Understanding Positioning in CSS](https://www.chenhuijing.com/blog/understanding-positioning-in-css/#%F0%9F%91%9F)
 
+## HTML
+
+- [A Free Guide to HTML5 <head>](https://htmlhead.dev)
+
 ## Javascript
 
 - [Console Log Like A Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
