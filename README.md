@@ -28,6 +28,11 @@ This is a collection of links that are helpful
 
 - [Console Log Like A Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
 
+## Makefile
+
+- [The Lost Art of Makefile](https://www.olioapps.com/blog/the-lost-art-of-the-makefile/)
+- [Building Systems with Make](https://www.integralist.co.uk/posts/building-systems-with-make/)
+
 ## Network
 
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
