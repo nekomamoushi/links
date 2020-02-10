@@ -15,6 +15,8 @@ This is a collection of links that are helpful
 
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
 - [5 tips for Arduino](https://www.megunolink.com/articles/5-tips-for-arduino-programs/)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [Always Squash and Rebase Your Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
 
 ## Hardware
 
