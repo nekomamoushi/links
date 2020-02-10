@@ -41,6 +41,8 @@ This is a collection of links that are helpful
 
 - [Slots](https://www.christianbarra.com/posts/let-me-introduce-slots/)
 - [Good Logging Practice](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
+- [Inside Python Dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
+- [Python Patterns](https://python-patterns.guide/) -[Customized Python App Bundles](https://michaellynn.github.io/2015/07/31/customized-python-app-bundles/) -[Web Scrapping Airbnb](https://www.verginer.eu/blog/web-scraping-airbnb/) -[Gevent: Async made easy](http://mauveweb.co.uk/posts/2014/07/gevent-asynchronous-io-made-easy.html)
 
 ## StackOverflow
 
