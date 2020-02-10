@@ -10,6 +10,9 @@ This is a collection of links that are helpful
 
 - [My Favorite CSS Hack](https://dev.to/gajus/my-favorite-css-hack-32g3)
 - [Understanding Positioning in CSS](https://www.chenhuijing.com/blog/understanding-positioning-in-css/#%F0%9F%91%9F)
+- [Ths CSS Cascade](https://wattenberger.com/blog/css-cascade)
+- [CSS FLex Tutorial](https://medium.com/free-code-camp/css-flex-an-interactive-tutorial-19ff6e93558)
+- [CSS Grid Tutorial](http://www.csstutorial.org/css-grid-tutorial.html)
 
 ## Git
 
