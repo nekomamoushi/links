@@ -53,3 +53,10 @@ This is a collection of links that are helpful
 - [Gulp Error](https://stackoverflow.com/questions/36897877/gulp-error-the-following-tasks-did-not-complete-did-you-forget-to-signal-async)
 - [Difference between localstorage, sessionstorage and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
 - [Async Trio Wat to solve hettingers example](https://stackoverflow.com/questions/49758189/async-trio-way-to-solve-hettingers-example)
+
+## UI/UX
+
+- [Colorhunt](https://colorhunt.co/)
+- [Color by Cloudfare](https://cloudflare.design/color/)
+- [Design Better](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+- [Build your color palette](https://refactoringui.com/previews/building-your-color-palette/)
