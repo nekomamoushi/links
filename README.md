@@ -34,6 +34,7 @@ This is a collection of links that are helpful
 ## HTML
 
 - [A Free Guide to HTML5 <head>](https://htmlhead.dev)
+- [Interneting Is Hard](https://internetingishard.com/)
 
 ## Javascript
 
