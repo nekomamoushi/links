@@ -19,6 +19,7 @@ This is a collection of links that are helpful
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
+- [CSS Diner](https://flukeout.github.io/)
 
 ## Docker
 
@@ -75,3 +76,7 @@ This is a collection of links that are helpful
 - [Color by Cloudfare](https://cloudflare.design/color/)
 - [Design Better](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Build your color palette](https://refactoringui.com/previews/building-your-color-palette/)
+
+# Web
+
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
