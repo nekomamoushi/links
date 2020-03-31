@@ -62,6 +62,16 @@ This is a collection of links that are helpful
 - [Python Patterns](https://python-patterns.guide/) -[Customized Python App Bundles](https://michaellynn.github.io/2015/07/31/customized-python-app-bundles/) -[Web Scrapping Airbnb](https://www.verginer.eu/blog/web-scraping-airbnb/) -[Gevent: Async made easy](http://mauveweb.co.uk/posts/2014/07/gevent-asynchronous-io-made-easy.html)
 - [Intro to Twisted](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 
+## PWA (Progressive Web App)
+
+- [Web App Manifest](https://web.dev/add-manifest/)
+- [Custom Install](https://web.dev/customize-install/)
+- [Is Service Worker Ready](https://jakearchibald.github.io/isserviceworkerready/)
+- [Introduction to Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [Cookbook: Service Worker](https://serviceworke.rs/)
+- [Upgradde your cache](https://www.afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/)
+- [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+
 ## StackOverflow
 
 - [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
