@@ -2,6 +2,10 @@
 
 This is a collection of links that are helpful
 
+## Bash
+
+- [The bash Guide](https://guide.bash.academy/)
+
 ## C
 
 - [Everything you need to know about pointers in C](https://boredzo.org/pointers/)
