@@ -76,6 +76,10 @@ This is a collection of links that are helpful
 - [Upgradde your cache](https://www.afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/)
 - [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 
+## Markdown
+
+- [Bien commencer avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
+
 ## StackOverflow
 
 - [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
