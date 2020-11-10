@@ -81,6 +81,10 @@ This is a collection of links that are helpful
 
 - [Bien commencer avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
 
+## React
+
+- [Optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
+
 ## StackOverflow
 
 - [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
@@ -96,6 +100,6 @@ This is a collection of links that are helpful
 - [Design Better](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Build your color palette](https://refactoringui.com/previews/building-your-color-palette/)
 
-# Web
+## Web
 
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
