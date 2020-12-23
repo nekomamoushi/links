@@ -1,0 +1,23 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "description": "This is a collection of links that are helpful",
+  "main": "url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekomamoushi/links.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekomamoushi/links/issues"
+  },
+  "homepage": "https://github.com/nekomamoushi/links#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
