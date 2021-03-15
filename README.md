@@ -100,6 +100,9 @@ This is a collection of links that are helpful
 - [Design Better](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Build your color palette](https://refactoringui.com/previews/building-your-color-palette/)
 
+## Unix
+
+- [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
 ## Web
 
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
