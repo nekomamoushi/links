@@ -24,6 +24,7 @@ This is a collection of links that are helpful
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Diner](https://flukeout.github.io/)
+- [A Beginner's Guide to Z-Index](https://www.seancdavis.com/blog/beginners-guide-z-index/)
 
 ## Docker
 
@@ -105,6 +106,7 @@ This is a collection of links that are helpful
 ## Unix
 
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
+
 ## Web
 
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
