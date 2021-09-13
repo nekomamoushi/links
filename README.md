@@ -38,6 +38,10 @@ This is a collection of links that are helpful
 - [5 tips for Arduino](https://www.megunolink.com/articles/5-tips-for-arduino-programs/)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [Always Squash and Rebase Your Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
+- [A git cheatsheet](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
+- [Oh Shit Git](http://ohshitgit.com)
+- [30 CLI options you should know about](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df)
+- [Think like (a) git](http://think-like-a-git.net)
 
 ## Hardware
 
