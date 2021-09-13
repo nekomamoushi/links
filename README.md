@@ -67,6 +67,7 @@ This is a collection of links that are helpful
 ## Network
 
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+- [A Subnetting Primer](https://danielmiessler.com/study/subnetting/#gs.omvuQN4)
 
 ## Python
 
