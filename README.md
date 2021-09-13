@@ -76,6 +76,8 @@ This is a collection of links that are helpful
 - [Inside Python Dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [Python Patterns](https://python-patterns.guide/) -[Customized Python App Bundles](https://michaellynn.github.io/2015/07/31/customized-python-app-bundles/) -[Web Scrapping Airbnb](https://www.verginer.eu/blog/web-scraping-airbnb/) -[Gevent: Async made easy](http://mauveweb.co.uk/posts/2014/07/gevent-asynchronous-io-made-easy.html)
 - [Intro to Twisted](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
+- [La puissance cachee des coroutines](https://zestedesavoir.com/articles/152/la-puissance-cachee-des-coroutines/)
+- [The decorators they won't tell you about](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb#blob_contributors_box)
 
 ## PWA (Progressive Web App)
 
