@@ -5,6 +5,8 @@ This is a collection of links that are helpful
 ## Bash
 
 - [The bash Guide](https://guide.bash.academy/)
+- [Ten things I wish i'd known about Bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
+- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## C
 
