@@ -11,6 +11,8 @@ This is a collection of links that are helpful
 - [Everything you need to know about pointers in C](https://boredzo.org/pointers/)
 - [C Programming](https://www.eskimo.com/~scs/cclass/)
 - [Binky Pointer Fun Video](http://cslibrary.stanford.edu/104/)
+- [C Gibberish](https://cdecl.org)
+- [Let's build a database](https://cstack.github.io/db_tutorial/)
 
 ## CSS
 
