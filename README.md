@@ -61,6 +61,10 @@ This is a collection of links that are helpful
 - [Javascript Event Loop Explained](https://felixgerschau.com/javascript-event-loop-call-stack/)
 - [Javascript Loading in Chrome](https://addyosmani.com/blog/script-priorities/)
 
+## JSON
+
+- [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/index.html)
+
 ## Makefile
 
 - [The Lost Art of Makefile](https://www.olioapps.com/blog/the-lost-art-of-the-makefile/)
