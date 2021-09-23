@@ -29,6 +29,7 @@ This is a collection of links that are helpful
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Diner](https://flukeout.github.io/)
 - [A Beginner's Guide to Z-Index](https://www.seancdavis.com/blog/beginners-guide-z-index/)
+- [Generate CSS animations](https://animista.net/)
 
 ## Docker
 
