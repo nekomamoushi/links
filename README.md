@@ -30,6 +30,8 @@ This is a collection of links that are helpful
 - [CSS Diner](https://flukeout.github.io/)
 - [A Beginner's Guide to Z-Index](https://www.seancdavis.com/blog/beginners-guide-z-index/)
 - [Generate CSS animations](https://animista.net/)
+- [Choose the right easing function](https://easings.net/)
+- [Build your own cubic bezier function](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## Docker
 
