@@ -108,6 +108,10 @@ This is a collection of links that are helpful
 
 - [Optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
 
+## SQL
+
+- [SQLite Playground](https://sqlime.org/)
+
 ## StackOverflow
 
 - [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
