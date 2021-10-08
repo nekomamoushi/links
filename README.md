@@ -119,6 +119,7 @@ This is a collection of links that are helpful
 - [Gulp Error](https://stackoverflow.com/questions/36897877/gulp-error-the-following-tasks-did-not-complete-did-you-forget-to-signal-async)
 - [Difference between localstorage, sessionstorage and cookies](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
 - [Async Trio Wat to solve hettingers example](https://stackoverflow.com/questions/49758189/async-trio-way-to-solve-hettingers-example)
+- [Property has no initializer and is not definitely assigned in the constructor](https://stackoverflow.com/questions/64874221/property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor)
 
 ## UI/UX
 
