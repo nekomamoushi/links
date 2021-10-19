@@ -51,7 +51,7 @@ This is a collection of links that are helpful
 
 ## Hardware
 
-- [Intro To Soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
+- [Intro To Soldering](https://sites.google.com/stanford.edu/soldering-internallearning)
 
 ## HTML
 
