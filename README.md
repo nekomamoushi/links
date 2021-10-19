@@ -51,7 +51,7 @@ This is a collection of links that are helpful
 
 ## Hardware
 
-- [Intro To Soldering](https://sites.google.com/stanford.edu/soldering-internal/learning/e)
+- [Intro To Soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
 
 ## HTML
 
@@ -129,15 +129,15 @@ This is a collection of links that are helpful
 ## UI/UX
 
 - [Colorhunt](https://colorhunt.co/)
-- [Color by Cloudfare](https://cloudflare.design/color/)
+- ~~[Color by Cloudfare](https://cloudflare.design/color/)~~
 - [Design Better](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Build your color palette](https://refactoringui.com/previews/building-your-color-palette/)
 
 ## Unix
 
-- [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
+- ~~[Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_source=hackernewsletter&utm_medium=email&utm_term=code)~~
 
 ## Web
 
-- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- ~~[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)~~
 - [Web Skills](https://andreasbm.github.io/web-skills/)
