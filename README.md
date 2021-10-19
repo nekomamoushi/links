@@ -108,6 +108,7 @@ This is a collection of links that are helpful
 ## React
 
 - [Optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
+- [Next.js: Page Rendering Cheatsheet](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/)
 
 ## SQL
 
