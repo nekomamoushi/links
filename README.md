@@ -135,7 +135,7 @@ This is a collection of links that are helpful
 
 ## Unix
 
-- ~~[Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_source=hackernewsletter&utm_medium=email&utm_term=code)~~
+- ~~[Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)~~
 
 ## Web
 
