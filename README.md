@@ -123,6 +123,7 @@ This is a collection of links that are helpful
 - [Async Trio Wat to solve hettingers example](https://stackoverflow.com/questions/49758189/async-trio-way-to-solve-hettingers-example)
 - [Property has no initializer and is not definitely assigned in the constructor](https://stackoverflow.com/questions/64874221/property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor)
 - [CSS Clearfix](https://stackoverflow.com/questions/211383/what-methods-of-clearfix-can-i-use/1633170#1633170)
+- [How to remove boarder and background from Material Icon Buttons](https://stackoverflow.com/questions/65525569/how-to-remove-boarder-and-background-from-material-icon-buttons)
 
 ## Security
 
