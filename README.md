@@ -116,7 +116,8 @@ This is a collection of links that are helpful
 ## SQL
 
 - [SQLite Playground](https://sqlime.org/)
-
+- [SQL Animated](https://animatesql.com/)
+  
 ## StackOverflow
 
 - [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
