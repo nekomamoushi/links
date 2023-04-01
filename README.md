@@ -65,6 +65,7 @@ This is a collection of links that are helpful
 - [Console Log Like A Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
 - [Javascript Event Loop Explained](https://felixgerschau.com/javascript-event-loop-call-stack/)
 - [Javascript Loading in Chrome](https://addyosmani.com/blog/script-priorities/)
+- [Reduce-Spread Anti-Pattern](https://www.richsnapp.com/article/2019/06-09-reduce-spread-anti-pattern)
 
 ## JSON
 
