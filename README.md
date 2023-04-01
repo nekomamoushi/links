@@ -90,7 +90,8 @@ This is a collection of links that are helpful
 - [Intro to Twisted](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 - [La puissance cachee des coroutines](https://zestedesavoir.com/articles/152/la-puissance-cachee-des-coroutines/)
 - [The decorators they won't tell you about](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb#blob_contributors_box)
-
+- [No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+  
 ## PWA (Progressive Web App)
 
 - [Web App Manifest](https://web.dev/add-manifest/)
