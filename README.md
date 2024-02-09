@@ -91,7 +91,7 @@ This is a collection of links that are helpful
 - [La puissance cachee des coroutines](https://zestedesavoir.com/articles/152/la-puissance-cachee-des-coroutines/)
 - [The decorators they won't tell you about](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb#blob_contributors_box)
 - [No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
-  
+
 ## PWA (Progressive Web App)
 
 - [Web App Manifest](https://web.dev/add-manifest/)
@@ -117,7 +117,10 @@ This is a collection of links that are helpful
 
 - [SQLite Playground](https://sqlime.org/)
 - [SQL Animated](https://animatesql.com/)
-  
+- [SQL for the weary](https://gvwilson.github.io/sql-tutorial/)
+- [SQL Police Department](https://sqlpd.com/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+
 ## StackOverflow
 
 - [ DatePipe is not working correctly](https://stackoverflow.com/questions/50421317/datepipe-is-not-working-correctly-in-angular-6)
@@ -129,7 +132,7 @@ This is a collection of links that are helpful
 - [CSS Clearfix](https://stackoverflow.com/questions/211383/what-methods-of-clearfix-can-i-use/1633170#1633170)
 - [How to remove boarder and background from Material Icon Buttons](https://stackoverflow.com/questions/65525569/how-to-remove-boarder-and-background-from-material-icon-buttons)
 - [Difference between let and var](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var)
-  
+
 ## Security
 
 - [Guide for security keys](https://paulstamatiou.com/getting-started-with-security-keys/)
