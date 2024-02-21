@@ -48,6 +48,7 @@ This is a collection of links that are helpful
 - [30 CLI options you should know about](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df)
 - [Think like (a) git](http://think-like-a-git.net)
 - [Git Explorer](https://gitexplorer.com/)
+- [First Aid Git](https://firstaidgit.io/#/)
 
 ## Hardware
 
